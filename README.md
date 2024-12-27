@@ -1,2 +1,2 @@
 # red_dot
-Simple little home IDS
+Simple little home IDS for linux using scapy
